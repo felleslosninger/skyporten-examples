@@ -20,6 +20,9 @@ Autoriseringsflyt:
 
 ## Oppsett
 
-Prosjektet krever at man har et ekte Maskinporten-token mot deres testmiljø. For testformål ble dette opprettet gjennom helperen her https://github.com/entur/exploratory-maskinporten-token. 
+Prosjektet krever at man har et ekte Maskinporten-token mot det rette miljøet. Det finnes flere kodeeksempler som kan hjelpe deg i gang, se feks
+* Digdirs eget [java-eksempel](https://github.com/felleslosninger/jwt-grant-generator)
+* [node-eksemple](https://github.com/entur/exploratory-maskinporten-token)
+* Nav sin [Maskinporten-client](https://github.com/navikt/maskinporten-client/tree/master)
 
 Ta kontakt med kontakt@samferdselsdata.no om du vil ha hjelp til å komme igang.
